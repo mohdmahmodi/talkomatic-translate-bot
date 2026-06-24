@@ -12,8 +12,8 @@ SERVER  = 'https://classic.talkomatic.co'
 # Run one of the following commands in your terminal to generate a token:
 # Mac/Linux:            curl -X POST https://classic.talkomatic.co/api/v1/bot-tokens/request
 # Windows (PowerShell): curl.exe -X POST https://classic.talkomatic.co/api/v1/bot-tokens/request
-TOKEN   = 'tk_...' # Paste your generated token here
-ROOM_ID = '797953' # The bot will directly join this existing room
+TOKEN   = 'tk_0636dfd04a86ba04b1ec2339cdca396201378b349fff19313552d70ab209b6a2' # Paste your generated token here
+ROOM_ID = '219588' # The bot will directly join this existing room
 
 if not TOKEN or TOKEN == 'tk_...':
     print("Please set your TOKEN in the script.")

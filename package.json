@@ -1,0 +1,24 @@
+{
+  "name": "talkomatic-translate-bot",
+  "version": "1.0.0",
+  "description": "A real-time translation bot for [Talkomatic](https://classic.talkomatic.co). It reads what users type character-by-character and displays live translations in its own chat panel using Google Translate.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MohdYahyaMahmodi/talkomatic-translate-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MohdYahyaMahmodi/talkomatic-translate-bot/issues"
+  },
+  "homepage": "https://github.com/MohdYahyaMahmodi/talkomatic-translate-bot#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "socket.io-client": "^4.8.3"
+  }
+}
